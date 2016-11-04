@@ -1,0 +1,29 @@
+{
+  "name": "athenaeum-of-verities",
+  "version": "1.0.0",
+  "description": "Athenaeum of Verities is a website that provides a user populated and maintained repository of knowledge related to a video game that is only accessible by users of the same organization/guild/group",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nevesstudios/AthenaeumofVerities.git"
+  },
+  "keywords": [
+    "repository",
+    "wikipedia",
+    "data",
+    "organization",
+    "org",
+    "guild",
+    "group",
+    "secret"
+  ],
+  "author": "nevesstudios",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/nevesstudios/AthenaeumofVerities/issues"
+  },
+  "homepage": "https://github.com/nevesstudios/AthenaeumofVerities#readme"
+}
